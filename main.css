@@ -6,9 +6,9 @@ body {
 }
 
 h1 {
-	font-size: 60px;
-  font-family:palatino, 'Palatino Linotype', serif;
-  color: rgb(46,105,163);
+	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
 }
 
 h2 {
@@ -19,15 +19,15 @@ h2 {
 .hero {
 	padding: 250px 0;
 	margin: 30px;
-  font-family:'Trebuchet MS', Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
   background-size: cover;
-  color: #ffffff
+  color: #ffffff;
 }
 
 
 p {
-  font-size: 2rem;
+ font-size: 2rem;
 }
 
 .hero a {
@@ -35,6 +35,8 @@ p {
 	font-size: 1.25em;
 	text-decoration: none;
 }
-#footer {
+
+#footer{
   font-size: 0.75rem;
 }
+
